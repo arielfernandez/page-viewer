@@ -1,0 +1,12 @@
+{
+"products": [
+    { "id": 1, "name": "Sandalias", "image": "sandalias.png", "description":"Sandalia Pale Gold YSL", "item": "Indumentaria", "img_show":"sandalias_img.png", "prize": 3000},
+    { "id": 2, "name": "Accesorios", "image": "accesorios.png", "description":"10% OFF en Chanel", "item": "Indumentaria", "img_show":"accesorios_img.png", "prize": 500},
+    { "id": 3, "name": "Case", "image": "case.png", "description":"iPhone 7 Case Sea-Blue", "item": "Accesorios", "img_show":"case_img.png", "prize": 400},
+    { "id": 4, "name": "Zapatillas", "image": "zapatillas.png", "description":"Zapatillas Dolce&Gabbana", "item": "Indumentaria", "img_show":"zapatillas_img.png", "prize": 2000},
+    { "id": 5, "name": "Cosmeticos", "image": "product_selected.png", "description":"Kylie Cosmetics KOKO Collection", "item": "Salud y Belleza", "img_show":"cosmeticos_img.png", "prize": 1800},
+    { "id": 6, "name": "Campera Teddy", "image": "campera_teddy.png", "description":"Campera Teddy Rosa YSL", "item": "Indumentaria", "img_show":"campera_teddy_img.png", "prize": 1200},
+    { "id": 7, "name": "Anteojos", "image": "anteojos.png", "description":"25% OFF en Gafas Guess", "item": "Accesorios", "img_show":"anteojos_img.png", "prize": 2300},
+    { "id": 8, "name": "Campera Cuero", "image": "campera_cuero.png", "description":"Campera de cuero Blood Luster YSL", "item": "Indumentaria", "img_show":"campera_cuero_img.png", "prize": 30000}
+  ]
+}

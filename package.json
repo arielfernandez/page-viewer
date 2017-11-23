@@ -1,0 +1,22 @@
+{
+  "name": "products-viewer",
+  "version": "1.0.0",
+  "description": "Products Viewer - ReactJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^4.1.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ariel Fernandez",
+  "license": "ISC"
+}
